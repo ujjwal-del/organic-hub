@@ -1,0 +1,150 @@
+{
+  "project_info": {
+    "project_number": "721499801239",
+    "project_id": "arganicz",
+    "storage_bucket": "arganicz.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721499801239:android:ae840c9858cbf6056a4bd2",
+        "android_client_info": {
+          "package_name": "com.arganicz.flutter_sixvalley_ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721499801239-94h4r1e4dvi2fkj664pr72h5lhehjjuv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmjDVCCIzOD6ZtR5WhsH-AKJjoRCiJ0-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721499801239-94h4r1e4dvi2fkj664pr72h5lhehjjuv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "721499801239-dfi94ndq0kldq75rju37if9712ofven7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.arganicz.userapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721499801239:android:a69580a7e37a25346a4bd2",
+        "android_client_info": {
+          "package_name": "com.arganicz.userapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721499801239-94h4r1e4dvi2fkj664pr72h5lhehjjuv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmjDVCCIzOD6ZtR5WhsH-AKJjoRCiJ0-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721499801239-94h4r1e4dvi2fkj664pr72h5lhehjjuv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "721499801239-dfi94ndq0kldq75rju37if9712ofven7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.arganicz.userapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721499801239:android:da2bcb43b6e419b56a4bd2",
+        "android_client_info": {
+          "package_name": "com.arganicz.userapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721499801239-c4l39op9m61qio776hmal20gv3uqf7h5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arganicz.userapps",
+            "certificate_hash": "6f901b4fdc4bc53161323cc5ee979808392a601c"
+          }
+        },
+        {
+          "client_id": "721499801239-dhplp2vudg9l0rbqtt5dd3p276a9qfbi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arganicz.userapps",
+            "certificate_hash": "46cb1bc360d2f2c87afce1b35ef7a9b26d943c47"
+          }
+        },
+        {
+          "client_id": "721499801239-nh66derjflofiokqhe2reb05ghfmotnj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arganicz.userapps",
+            "certificate_hash": "e7b1e6df18f02f442ae9642a856fc3e7b088f7b5"
+          }
+        },
+        {
+          "client_id": "721499801239-vuloips5p47oilc5ou2mggjaa65del7c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arganicz.userapps",
+            "certificate_hash": "02cfae8e21ef595fccdc32c4c36daf6aa62887c6"
+          }
+        },
+        {
+          "client_id": "721499801239-94h4r1e4dvi2fkj664pr72h5lhehjjuv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmjDVCCIzOD6ZtR5WhsH-AKJjoRCiJ0-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721499801239-94h4r1e4dvi2fkj664pr72h5lhehjjuv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "721499801239-dfi94ndq0kldq75rju37if9712ofven7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.arganicz.userapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

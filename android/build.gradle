@@ -1,0 +1,35 @@
+// build.gradle (allprojects)
+buildscript {
+    ext.kotlin_version = '1.9.22'
+    repositories {
+        google()
+        mavenCentral()
+    }
+
+    dependencies {
+        classpath 'com.android.tools.build:gradle:8.3.0'
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
+    }
+}
+// Set up repositories for dependencies
+allprojects {
+    repositories {
+        google()
+        mavenCentral()
+    }
+
+    // Set the build directory
+    rootProject.buildDir = '../build'
+
+    // Configure subprojects
+    subprojects {
+        project.buildDir = "${rootProject.buildDir}/${project.name}"
+    }
+
+    // Ensure evaluation depends on the app module
+    subprojects {
+        project.evaluationDependsOn(':app')
+    }
+
+
+}
